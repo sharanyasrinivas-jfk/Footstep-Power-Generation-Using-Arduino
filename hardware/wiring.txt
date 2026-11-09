@@ -1,0 +1,9 @@
+ Piezo array --+--[Bridge rectifier]--+--[1000uF]--+--> 5V reg/boost --> TP4056 --> 18650
+               |                      |            |
+         [anti-parallel diodes]       |            +--[100k]--+--> A0
+                                                              |
+                                                       [12k]--+--[Zener 5.1V]--GND
+
+ Battery+ --[10k]--+--> A1
+                   |
+            [10k]--+--GND
