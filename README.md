@@ -12,7 +12,14 @@ tests/                             Unit tests for the tool
 docs/literature-survey.md          Survey findings
 docs/hardware.md                   BOM, wiring, safety
 hardware/wiring.txt                ASCII schematic
+docs/images/                       Figures from the survey deck
 ```
+
+## Figures
+![Circuit diagram](docs/images/circuit-diagram.png)
+![Piezoelectric effect](docs/images/piezo-effect-pzt.png)
+
+More in [docs/images](docs/images).
 
 ## What the firmware does
 - Tracks the peak piezo voltage on A0 and counts footsteps (threshold + debounce + hysteresis)
