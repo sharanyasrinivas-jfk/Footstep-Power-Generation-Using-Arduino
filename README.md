@@ -43,9 +43,6 @@ More in [docs/images](docs/images).
 ## Status
 Firmware is untested on hardware; thresholds and divider values need calibration.
 
-## Team
-Shraddha K.V, Tejaswini M.S, V. Soundarya, Sharanya S
-Guide: J.S. Shwetha | Reviewer: Dhanusha H
 
 ## License
 MIT
